@@ -49,13 +49,15 @@ h1 {
 }
 
 #mapa {
-	border: 1px solid #99c;
+	border: 10px solid #FFC600;
     border-radius: 5px;
     box-shadow: 0 0 5px #99c;
     margin: 0 auto;
     padding: 10px;
-    width: 50%;
-    min-height: 640px;
+    width: 300px;          /* o lo que tú necesites */
+    min-height: 300px;
+
+    
 }
 	
 
